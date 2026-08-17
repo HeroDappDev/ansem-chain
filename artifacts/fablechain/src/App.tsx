@@ -715,7 +715,7 @@ export default function App() {
             <button className={`util-btn ${agentPanelOpen ? 'on' : ''}`} onClick={() => setAgentPanelOpen(!agentPanelOpen)}>■ AGENT</button>
           )}
           <a className="util-btn" href={REPO_URL} target="_blank" rel="noopener noreferrer">GITHUB</a>
-          <a className="util-btn" href="https://x.com/BlackBull_Chain" target="_blank" rel="noopener noreferrer">𝕏 TWITTER</a>
+          <a className="util-btn" href="https://x.com/Ansemchainxyz" target="_blank" rel="noopener noreferrer">𝕏 TWITTER</a>
         </div>
         <div className="util-right">
           {!isMobile && (
