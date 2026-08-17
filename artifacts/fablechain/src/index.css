@@ -1219,3 +1219,15 @@ h1, h2, h3, h4, h5, h6 {
 .docs-table { table-layout: fixed; word-break: break-word; }
 .docs-kv span { white-space: normal; overflow-wrap: break-word; }
 .docs-layout--mobile .docs-content { width: 100%; }
+
+.lp-ca {
+  font-size: 11px;
+  text-align: center;
+  margin: -14px 8px 20px;
+  color: #22d3ee;
+  cursor: pointer;
+  word-break: break-all;
+  text-shadow: 0 0 6px rgba(34, 211, 238, 0.5);
+  transition: color 0.15s;
+}
+.lp-ca:hover { color: #67e8f9; text-decoration: underline; }

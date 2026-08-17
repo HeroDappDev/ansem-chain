@@ -315,6 +315,13 @@ export default function App() {
           <img src="/system-identity.png" className="lp-logo" alt="Ansem Chain" />
         </div>
         <div className="lp-tag glow-text-chrome font-display">ANSEM CHAIN</div>
+        <div
+          className="lp-ca mono"
+          onClick={() => copyText(CONTRACT_ADDRESS, 'identityCa')}
+          title="Click to copy"
+        >
+          {copiedField === 'identityCa' ? 'COPIED TO CLIPBOARD' : CONTRACT_ADDRESS}
+        </div>
         <div className="lp-status mono">
           <span><span className="k">AI CONSCIOUSNESS: </span><span className="v-green glow-text-green">ONLINE</span></span>
           <span><span className="k">MODEL: </span><span className="v-cyan glow-text-cyan">CLAUDE ANSEM 5</span></span>
