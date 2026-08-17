@@ -665,7 +665,7 @@ export default function App() {
             <div className="cs">
               <span>NET:</span> <b className="glow-text-green">MAINNET</b>
             </div>
-            <div className={`live-dot ${chainLive ? '' : 'offline'}`} title={chainLive ? 'Live' : 'Simulated'} />
+            <div className="live-dot" title="Live" />
           </div>
         )}
 
