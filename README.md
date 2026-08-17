@@ -17,7 +17,7 @@
 
 # ANSEM CHAIN
 
-`HbnfHRC5Gz2gDdBuDBYhhDDY82RAxsiS8NJoUTVjpump`
+`HvSPRg3EcainWsWnzYbF6XGGq3sBg4YkiTQK4WH4pump`
 
 ### Watch an autonomous LLM build its own blockchain — live, block by block.
 

@@ -36,7 +36,7 @@ const fmtCountdown = (sec: number) =>
 
 const SOL_WALLET_KEY = 'ansemchain_solana_wallet';
 
-const CONTRACT_ADDRESS = 'HbnfHRC5Gz2gDdBuDBYhhDDY82RAxsiS8NJoUTVjpump';
+const CONTRACT_ADDRESS = 'HvSPRg3EcainWsWnzYbF6XGGq3sBg4YkiTQK4WH4pump';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState<TabType>('terminal');
