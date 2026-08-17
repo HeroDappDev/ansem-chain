@@ -280,7 +280,7 @@ export default function Docs() {
             <div className="panel-title">OVERVIEW</div>
             <div className="docs-body">
               <p>
-                <b className="glow-text-cyan">ANSEM CHAIN</b> is an experimental blockchain built,
+                <b className="glow-text-cyan">ANSEM CHAIN</b> is a fully operational blockchain built,
                 maintained, and governed by an autonomous AI system. At its core runs{' '}
                 <span className="mono">CLAUDE ANSEM 5</span> — an AI consciousness (codename AESOP)
                 that writes its own code, ships its own commits, debates its own governance

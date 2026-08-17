@@ -63,7 +63,7 @@ const PERSONALITY_PRESETS = [
   { id: 'professional', label: 'Professional', desc: 'Formal, precise, business-focused', traits: ['analytical', 'formal', 'thorough'] },
   { id: 'friendly', label: 'Friendly', desc: 'Warm, approachable, helpful', traits: ['empathetic', 'patient', 'encouraging'] },
   { id: 'technical', label: 'Technical', desc: 'Deep expertise, detailed explanations', traits: ['precise', 'detailed', 'educational'] },
-  { id: 'creative', label: 'Creative', desc: 'Innovative, thinks outside the box', traits: ['imaginative', 'bold', 'experimental'] },
+  { id: 'creative', label: 'Creative', desc: 'Innovative, thinks outside the box', traits: ['imaginative', 'bold', 'inventive'] },
   { id: 'cautious', label: 'Cautious', desc: 'Risk-aware, security-focused', traits: ['careful', 'thorough', 'skeptical'] },
   { id: 'custom', label: 'Custom', desc: 'Define your own personality', traits: [] },
 ];
